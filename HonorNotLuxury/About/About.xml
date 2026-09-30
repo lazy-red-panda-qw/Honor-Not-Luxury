@@ -5,30 +5,15 @@
   <url>https://github.com/lazy-red-panda-qw/Honor-Not-Luxury</url>
   <packageId>local.honornotluxury</packageId>
   <supportedVersions><li>1.6</li></supportedVersions>
-  <description>荣誉贵族 2.0：保留爵位身份与权益，按需豁免爵位附带的生活要求。
+  <description>让贵族头衔代表荣誉，而不必强制过上奢侈生活。
+分别调整爵位的卧室、日常谒见厅、服装款式与品质、食物、期望和工作限制。可选择保持原有机制、仅正式殖民者免除或所有角色免除。
+保留爵位权益和授勋仪式的谒见厅要求。需要 Royalty 和 Harmony；支持简体中文与英语。
+源于叮咚的个人需求，代码由 AI 编写，叮咚审阅并游戏内测试，分享给有同样需求的玩家。
 
-默认仅豁免玩家阵营的正式殖民者；访客、任务临时成员、囚犯与奴隶维持现有规则。
-
-在“选项 → Mod 设置 → 荣誉贵族”中，以下七项可分别选择“维持原有规则 / 仅正式殖民者豁免 / 所有角色豁免”：
-• 贵族卧室要求
-• 日常谒见厅要求
-• 爵位服装款式要求
-• 爵位服装品质要求
-• 爵位食物要求
-• 爵位抬高的最低期望
-• 爵位工作限制（默认维持原有规则）
-
-授勋仪式的谒见厅验收条件始终保留。普通财富期望、文化职位、特性、健康等规则继续生效。
-保留荣誉值、爵位、许可、灵能、继承、外交及原有授勋流程。不改变敕令和娱乐要求。
-
-使用运行时补丁，不删除 Def，不改写角色的原版要求开关或自大标志。
-支持读取已有存档；本版本造成的豁免不写入存档。旧原型曾写入的字段不会被自动修复。
-适用于使用原版 RoyalTitleDef 机制的帝国与 OA 金鸢尾兰头衔。需要 Harmony 和 Royalty。
-
-我（叮咚）因个人游玩需求提出想法和功能取舍，代码由 AI 编写，由我审阅和实机测试。公开是为了方便有相同需求的玩家。
-详见随附 README。游戏更新或其他补丁冲突导致挂载失败时，本 Mod 会撤销自己的补丁并记录错误。
-
-Idea and feature decisions by DingDong; mod code written by AI, reviewed and tested by DingDong. Made for personal play and shared with players who want the same choice. Independently configure title demands for permanent colonists or all pawns. MIT-licensed original code; compatibility with every mod setup is not guaranteed. See the Chinese and English READMEs.</description>
+Keep royal honor without having to live in luxury.
+Independently adjust title requirements for bedrooms, daily throne rooms, apparel style and quality, food, expectations, and work. Keep existing rules, exempt permanent colonists, or exempt everyone.
+Title benefits and bestowing throne-room requirements remain. Requires Royalty and Harmony; supports English and Simplified Chinese.
+Based on DingDong's personal needs. Code written by AI, reviewed and tested in game by DingDong, and shared with players who want the same choice.</description>
   <modDependencies>
     <li><packageId>brrainz.harmony</packageId><displayName>Harmony</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl></li>
     <li><packageId>ludeon.rimworld.royalty</packageId><displayName>Royalty</displayName></li>

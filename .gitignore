@@ -1,9 +1,4 @@
-Releases/
-_qa/
-_recon/
-_sim/
-Honor-Not-Luxury-GitHub/
-HonorNotLuxury/Source/bin/
-HonorNotLuxury/Source/obj/
+**/bin/
+**/obj/
 *.user
 *.suo
