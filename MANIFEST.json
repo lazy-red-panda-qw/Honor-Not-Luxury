@@ -1,0 +1,43 @@
+{
+    "name":  "Honor, Not Luxury",
+    "version":  "2.0.0",
+    "gameAssemblyVersion":  "1.6.9676.17735",
+    "controlledBehaviorChecks":  118,
+    "isolatedInstallerChecks":  20,
+    "inGameValidation":  {
+                             "date":  "2026-09-27",
+                             "source":  "Maintainer report from a 140+ mod playthrough",
+                             "confirmed":  [
+                                               "Game loads",
+                                               "Mod settings visible",
+                                               "Independent requirement switches",
+                                               "Mood penalty returns when set to Unchanged"
+                                           ],
+                             "fullBestowingAndAllModCompatibilityTested":  false
+                         },
+    "sha256":  {
+                   "README.md":  "059baec00ca464b880a3120c257b36ad0571d379d0243535bb97cda7f0b23d11",
+                   "LICENSE":  "db85203ea80dcdbea221dcf693688577dbaa19b7cee814ea68dd12b0533781d1",
+                   ".gitignore":  "3a0800d27befc34ad1d5afe0abed2705b44c63b211e9c27b9674881427d956fd",
+                   ".github/ISSUE_TEMPLATE/compatibility.md":  "7b585538b1b6f45083e24ad3ff1d46ed9d2cc7f82861b39f50f6163172edb209",
+                   "install.ps1":  "6da73ee6222d9d53255b1b6b40db13a6dac05ebbeaa5534b76ac1bfed9614349",
+                   "package.ps1":  "1c004e9c6c83fc096f483fc284a950842e9e4899da6a36c1272cd19ca942f4d9",
+                   "PUBLISHING.md":  "1cb909c1501204abd71cff2a55b11b3073ff68cec927bc1945d9e0baa1581248",
+                   "WORKSHOP_DESCRIPTION.md":  "d0746626ed3cc939c78aa2112164db16e58011d85e6f4d8f4e798ffb4f662fbf",
+                   "HonorNotLuxury/README.md":  "03450285222145ec4bce9bb1e57147f0594a0f0d2865e47100ec326a67bdddc3",
+                   "HonorNotLuxury/README.en.md":  "b12b4f8356746709b318779f4acf059e66eec417a163151d1acf5586810465c9",
+                   "HonorNotLuxury/LICENSE":  "db85203ea80dcdbea221dcf693688577dbaa19b7cee814ea68dd12b0533781d1",
+                   "HonorNotLuxury/.gitignore":  "4a06f98ecb55bca4eecc0ab7ac400e71f8c9b379b3059acb61a2075b21d6b02f",
+                   "HonorNotLuxury/Docs/QA_V2_REPORT.md":  "83f3528862472fd11528538e5917611975059d86f9e45c3da620a8ecd8bbc2c0",
+                   "HonorNotLuxury/About/About.xml":  "e4978df90934bc9de9fd3cc7c91124f590a17a8ddb5bdce7b18ecdfaaf7008fd",
+                   "HonorNotLuxury/Assemblies/HonorNotLuxury.dll":  "06956adc3a5b09be480f0548b59cefd416b3c9bfeae6064af89e544194aec1d1",
+                   "HonorNotLuxury/Languages/ChineseSimplified/Keyed/HonorNotLuxury.xml":  "e2973bdbb612fe19b0e3f3a7e7edb841045c02cb91192d915ada4005c4472dc0",
+                   "HonorNotLuxury/Languages/English/Keyed/HonorNotLuxury.xml":  "854fc96a831ce814be7f4a18168bae53dfcf25126ba43beff2fe50db964ea264",
+                   "HonorNotLuxury/Source/AssemblyInfo.cs":  "3230b3386d5b632f29c6fd5a3d898b49eb707b0f4073a20d7060eee20bdbf229",
+                   "HonorNotLuxury/Source/HonorNotLuxury.csproj":  "22f94aeb787466dfd539db78d5d24730f3ccdf425f68553714f25ff7be0b5223",
+                   "HonorNotLuxury/Source/HonorNotLuxuryMod.cs":  "dea838129b58dd2b1032d11699a4f9f42cfb8c8138c37a4c6d135328c09acbb8",
+                   "HonorNotLuxury/Source/HonorNotLuxurySettings.cs":  "d77299d3d34685d465fd673bef07423de26abc63ac4ffe632ff897c8c476f162",
+                   "HonorNotLuxury/Source/Patches.cs":  "0596f21405c72cff958a57001c5d13adb56795db1fa2fb1c5037fa482ec4dbb1",
+                   "HonorNotLuxury/Source/RequirementPolicy.cs":  "3b1fe87b41f7622a2421c5718b4fe74973f5c0c334689eb7020aef292d32a58f"
+               }
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HNL_Name>Honor, Not Luxury</HNL_Name>
+  <HNL_Intro>Choose who is exempt from each title requirement. Permanent colonists include travelling members, but exclude visitors, temporary quest members, prisoners and slaves. Changes apply to subsequent checks without a restart.</HNL_Intro>
+  <HNL_Scope_Unchanged>Keep existing rules</HNL_Scope_Unchanged>
+  <HNL_Scope_Colonists>Exempt permanent colonists</HNL_Scope_Colonists>
+  <HNL_Scope_Everyone>Exempt everyone</HNL_Scope_Everyone>
+  <HNL_Bedroom>Title bedroom requirements</HNL_Bedroom>
+  <HNL_Throneroom>Daily throne room requirements</HNL_Throneroom>
+  <HNL_ApparelStyle>Title apparel style</HNL_ApparelStyle>
+  <HNL_ApparelQuality>Title apparel quality</HNL_ApparelQuality>
+  <HNL_Food>Title food requirements</HNL_Food>
+  <HNL_Expectations>Title minimum expectations</HNL_Expectations>
+  <HNL_Work>Title work restrictions</HNL_Work>
+  <HNL_BedroomTip>Exempt title requirements for a personal bedroom, area, impressiveness and furnishings, including associated mood penalties. Ordinary room and ideology rules remain.</HNL_BedroomTip>
+  <HNL_ThroneroomTip>Exempt daily throne room and furnishing requirements and their mood penalties. Bestowing quests always retain their venue and luxury checks.</HNL_ThroneroomTip>
+  <HNL_ApparelStyleTip>Exempt mood penalties for missing title-specific apparel. Visitor equipment generation and ideology apparel requirements remain.</HNL_ApparelStyleTip>
+  <HNL_ApparelQualityTip>Exempt minimum apparel quality imposed by titles and its mood penalty, independently of apparel style.</HNL_ApparelQualityTip>
+  <HNL_FoodTip>Exempt title food refusals and newly generated title food memories. Alerts are filtered per pawn. Existing memories expire naturally; ordinary food and ideology restrictions remain.</HNL_FoodTip>
+  <HNL_ExpectationsTip>Remove only the title's minimum expectation. Wealth, ideology roles and vanilla grace periods remain.</HNL_ExpectationsTip>
+  <HNL_WorkTip>Remove only work restrictions caused by titles. Backstory, traits, health, genes and ideology restrictions remain, as do decrees and recreation rules. Newly unlocked work may need priorities assigned manually.</HNL_WorkTip>
+  <HNL_Footer>Bestowing ceremonies and their throne room requirements always remain. Titles, honor, permits, diplomacy, decrees and recreation rules remain. Settings apply across saves; restoring rules does not reconstruct past memories or work assignments.</HNL_Footer>
+  <HNL_Reset>Restore defaults</HNL_Reset>
+  <HNL_PatchFailure>Patching failed and this mod's rule changes are disabled. Check Player.log. The selected policies are not active.</HNL_PatchFailure>
+</LanguageData>

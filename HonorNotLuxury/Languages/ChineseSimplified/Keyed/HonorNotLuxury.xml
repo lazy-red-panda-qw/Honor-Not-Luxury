@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HNL_Name>荣誉贵族</HNL_Name>
+  <HNL_Intro>选择每类爵位要求的免除范围。正式殖民者包括外出成员；不包括访客、临时任务成员、囚犯或奴隶。更改会立即应用到后续判定，无需重启。</HNL_Intro>
+  <HNL_Scope_Unchanged>保持原有机制</HNL_Scope_Unchanged>
+  <HNL_Scope_Colonists>仅正式殖民者免除</HNL_Scope_Colonists>
+  <HNL_Scope_Everyone>所有角色免除</HNL_Scope_Everyone>
+  <HNL_Bedroom>爵位卧室要求</HNL_Bedroom>
+  <HNL_Throneroom>日常谒见厅要求</HNL_Throneroom>
+  <HNL_ApparelStyle>贵族服装款式</HNL_ApparelStyle>
+  <HNL_ApparelQuality>贵族服装品质</HNL_ApparelQuality>
+  <HNL_Food>爵位饮食要求</HNL_Food>
+  <HNL_Expectations>爵位最低期望</HNL_Expectations>
+  <HNL_Work>爵位工作限制</HNL_Work>
+  <HNL_BedroomTip>免除爵位要求的个人卧室、面积、豪华度和家具，以及相应负面心情。普通房间环境和文化要求保留。</HNL_BedroomTip>
+  <HNL_ThroneroomTip>免除日常谒见厅、豪华度和家具要求及相应负面心情。授勋任务对场地与豪华度的检查始终保留。</HNL_ThroneroomTip>
+  <HNL_ApparelStyleTip>免除因缺少指定贵族服装款式而产生的负面心情。不改变访客的装备生成，也不影响文化服装要求。</HNL_ApparelStyleTip>
+  <HNL_ApparelQualityTip>免除爵位要求的服装最低品质及相应负面心情。与服装款式分开设置。</HNL_ApparelQualityTip>
+  <HNL_FoodTip>免除爵位造成的食物拒食和新产生的相关负面记忆；食物警报按角色过滤。已有食物记忆自然到期，普通饮食和文化禁忌保留。</HNL_FoodTip>
+  <HNL_ExpectationsTip>只免除爵位抬高的最低期望。财富、文化职位及原版宽限期逻辑保留。</HNL_ExpectationsTip>
+  <HNL_WorkTip>只免除爵位造成的工作限制。背景、性格、健康、基因和文化职位限制保留；敕令和娱乐规则保留。新解锁的工作可能需要手动分配优先级。</HNL_WorkTip>
+  <HNL_Footer>授勋仪式及其谒见厅门槛始终保留。爵位、荣誉、许可、外交、敕令和娱乐规则保留。设置对所有存档通用；恢复原有机制不会重建已发生的记忆或工作安排。</HNL_Footer>
+  <HNL_Reset>恢复默认设置</HNL_Reset>
+  <HNL_PatchFailure>补丁加载失败，已停用本模组的规则修改。请检查 Player.log；当前设置不会生效。</HNL_PatchFailure>
+</LanguageData>
