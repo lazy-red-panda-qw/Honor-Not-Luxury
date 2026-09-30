@@ -10,4 +10,4 @@
 - [兼容问题与建议](https://github.com/lazy-red-panda-qw/Honor-Not-Luxury/issues) · [MIT 许可证](LICENSE)
 - [发布准备和维护说明](PUBLISHING.md)
 
-我已在自己的 140+ Mod 环境中验证模组加载、设置及多项需求开关；切回原机制后对应的心情减益会重新出现。其他 Mod 组合未获全面保证。**目前 GitHub 仓库公开，尚未上传 Steam 创意工坊。**
+我已在自己的 140+ Mod 环境中验证模组加载、设置及多项需求开关；切回原机制后对应的心情减益会重新出现。其他 Mod 组合未获全面保证。
